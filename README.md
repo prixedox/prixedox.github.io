@@ -5,6 +5,7 @@ Landing page served at **https://prixedox.github.io/**.
 It links to my other GitHub Pages project sites, which live in their own repos:
 
 - [`/about/`](https://prixedox.github.io/about/) → repo `prixedox/about`
+- [`/nn-playground/`](https://prixedox.github.io/nn-playground/) → repo `prixedox/nn-playground`
 - [`/shortcut-trainer/`](https://prixedox.github.io/shortcut-trainer/) → repo `prixedox/shortcut-trainer`
 
 ## Adding a new page
