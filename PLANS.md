@@ -108,3 +108,14 @@ top of this setup.
 | 3 | vzdelej-se on Pages | **live** |
 
 Each goes live (repo + Pages + landing card) before the next one starts.
+
+---
+
+## 4. Gravity Golf — repo `gravity-golf` · **live**
+
+**URL:** `https://prixedox.github.io/gravity-golf/` — golf in outer space.
+Drag-to-aim slingshot, real n-body gravity, 12 holes featuring planets,
+black holes, wormholes and orbiting moons; par + stars scoring with saved
+bests. The test suite verifies the physics (inverse-square law, stable
+circular orbits, deterministic sims) and proves every hole has a
+hole-in-one by automated angle/power search.
