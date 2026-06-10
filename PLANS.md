@@ -103,7 +103,7 @@ top of this setup.
 
 | # | Project | Status |
 |---|---------|--------|
-| 1 | bio-playground | planned |
+| 1 | bio-playground | **live** |
 | 2 | ray-tracer | planned |
 | 3 | vzdelej-se on Pages | planned |
 
