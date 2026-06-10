@@ -9,6 +9,7 @@ It links to my other GitHub Pages project sites, which live in their own repos:
 - [`/ray-tracer/`](https://prixedox.github.io/ray-tracer/) → repo `prixedox/ray-tracer`
 - [`/bio-playground/`](https://prixedox.github.io/bio-playground/) → repo `prixedox/bio-playground`
 - [`/shortcut-trainer/`](https://prixedox.github.io/shortcut-trainer/) → repo `prixedox/shortcut-trainer`
+- [`/vzdelej-se/`](https://prixedox.github.io/vzdelej-se/) → repo `prixedox/vzdelej-se` (Next.js static export, deployed by GitHub Actions)
 
 ## Adding a new page
 

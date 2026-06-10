@@ -105,6 +105,6 @@ top of this setup.
 |---|---------|--------|
 | 1 | bio-playground | **live** |
 | 2 | ray-tracer | **live** |
-| 3 | vzdelej-se on Pages | planned |
+| 3 | vzdelej-se on Pages | **live** |
 
 Each goes live (repo + Pages + landing card) before the next one starts.
