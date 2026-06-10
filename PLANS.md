@@ -104,7 +104,7 @@ top of this setup.
 | # | Project | Status |
 |---|---------|--------|
 | 1 | bio-playground | **live** |
-| 2 | ray-tracer | planned |
+| 2 | ray-tracer | **live** |
 | 3 | vzdelej-se on Pages | planned |
 
 Each goes live (repo + Pages + landing card) before the next one starts.
